@@ -219,7 +219,6 @@ Le fichier doit contenir au minimum les colonnes suivantes :
 - `PaymentHistory`, `ServiceInteractions`, `EngagementMetrics` : Données JSON
 - `Feedback`, `WebsiteUsage`, `MarketingCommunication` : Données JSON
 - `PurchaseHistory`, `ClickstreamData` : Données JSON
-- `ChurnLabel` (optionnel) : Variable cible pour évaluation
 
 ### 3. Exploration des Données (EDA)
 
@@ -491,18 +490,18 @@ Pour contribuer au projet :
 
 ## Auteur
 
-[Votre Nom]
-[Votre Email]
-[Date du Projet]
+Abdoul-rachid Boinzemwendé FOFANA
+rachk02@outlook.fr
+Août 2025
 
 ---
 
 ## Licence
 
-[Spécifiez votre licence ici]
+Génie Logiciel Pure Developer - Option Analyse de données
 
 ---
 
 ## Remerciements
 
-Ce projet a été développé dans le cadre d'une soutenance académique en Data Science / Machine Learning.
+Ce projet a été développé dans le cadre d'une soutenance académique en Data Analyse / Machine Learning.
